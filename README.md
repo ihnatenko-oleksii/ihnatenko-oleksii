@@ -1,34 +1,29 @@
 # Hey, I'm Oleksii 👋
 
-### AI / Backend Engineer · Product Builder
+### AI Engineer · Product Builder
 
-I build software **end-to-end** — from architecture and backend systems to AI, infrastructure, and product.
+I build software end-to-end across **backend, AI systems, architecture, infrastructure, and product**.
 
-Started with **Java / Spring Boot backend engineering**. Now focused increasingly on **AI agents, RAG, system architecture, and product engineering**.
+`Java / Spring Boot` → `Python / AI Agents / RAG` → `Product Engineering`
 
-> **architecture → backend → AI → infrastructure → product**
-
-## Building
+## Featured Projects
 
 ### 🧠 [Disciplio](https://disciplio.me)
-
 **AI system for turning long-term goals into consistent daily action.**
-
-Building it across product, architecture, backend, AI, frontend, infrastructure, and production.
 
 `Java` `Spring Boot` `Python` `FastAPI` `React` `PostgreSQL` `Qdrant` `Docker`
 
-### 🤖 [AgentBridge](https://github.com/ihnatenko-oleksii/agent-bridge)
+### 🔎 [Retrieval System](https://github.com/ihnatenko-oleksii/Retrieval-System)
+**Local-first RAG retrieval engine with Qwen3 + BM25 hybrid search.**
 
-**LangGraph-based AI advisor** for researching and choosing AI agent / RAG frameworks.
+Improved **nDCG by 27%** and **MRR by 29%** over dense retrieval on a separate 125-query benchmark.
+
+`Python` `FastAPI` `Qwen3` `ChromaDB` `BM25` `RAG` `Evals`
+
+### 🤖 [AgentBridge](https://github.com/ihnatenko-oleksii/agent-bridge)
+**LangGraph-based AI advisor for researching and choosing AI agent / RAG frameworks.**
 
 `Python` `LangGraph` `Agents` `RAG`
-
-### 🔎 [Retrieval System](https://github.com/ihnatenko-oleksii/Retrieval-System)
-
-**Local-first RAG system** with hybrid retrieval, reranking, evaluation, and grounded generation.
-
-`Python` `FastAPI` `BM25` `Embeddings` `Ollama`
 
 ## Stack
 
@@ -36,7 +31,7 @@ Building it across product, architecture, backend, AI, frontend, infrastructure,
   <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,postgres,kafka,docker,linux,git,github,cloudflare,react,ts" />
 </p>
 
-**AI:** LangGraph · AI Agents · RAG · Qdrant · Ollama · LiteLLM · Embeddings · Vector Search · Reranking · Evals
+**AI:** AI Agents · LangGraph · RAG · Qwen3 · Qdrant · BM25 · LiteLLM · Evals
 
 ## Connect
 
